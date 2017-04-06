@@ -1,0 +1,16 @@
+program prjPCLed;
+
+uses
+  Forms,
+  unPrincipal in 'unPrincipal.pas' {frmPrincipal},
+  unSolido in 'unSolido.pas' {Form1};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TfrmPrincipal, frmPrincipal);
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.

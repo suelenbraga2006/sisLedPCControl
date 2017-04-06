@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/01/17 17:03:12.195.pas,C:\Users\Administrador\Documents\RAD Studio\Projects\Unit1.pas=D:\Arduino Projetos\InterfaceArduinoPC\appRGBLedPCControl\unPrincipal.pas</Transaction>
+    <Transaction>2017/01/17 17:03:12.204.dfm,C:\Users\Administrador\Documents\RAD Studio\Projects\Unit1.dfm=D:\Arduino Projetos\InterfaceArduinoPC\appRGBLedPCControl\unPrincipal.dfm</Transaction>
+    <Transaction>2017/01/17 17:03:26.988.dproj,C:\Users\Administrador\Documents\RAD Studio\Projects\Project1.dproj=D:\Arduino Projetos\InterfaceArduinoPC\appRGBLedPCControl\prjPCLed.dproj</Transaction>
+    <Transaction>2017/01/17 18:05:20.223.pas,D:\Arduino Projetos\InterfaceArduinoPC\appRGBLedPCControl\Unit1.pas=D:\Arduino Projetos\InterfaceArduinoPC\appRGBLedPCControl\unSolido.pas</Transaction>
+    <Transaction>2017/01/17 18:05:20.223.dfm,D:\Arduino Projetos\InterfaceArduinoPC\appRGBLedPCControl\Unit1.dfm=D:\Arduino Projetos\InterfaceArduinoPC\appRGBLedPCControl\unSolido.dfm</Transaction>
+    <Transaction>2017/01/17 18:57:08.897.pas,D:\Arduino Projetos\InterfaceArduinoPC\appRGBLedPCControl\Unit1.pas=D:\Arduino Projetos\InterfaceArduinoPC\appRGBLedPCControl\unEfeito.pas</Transaction>
+    <Transaction>2017/01/17 18:57:08.897.dfm,D:\Arduino Projetos\InterfaceArduinoPC\appRGBLedPCControl\Unit1.dfm=D:\Arduino Projetos\InterfaceArduinoPC\appRGBLedPCControl\unEfeito.dfm</Transaction>
+    <Transaction>2017/01/17 20:00:05.278.pas,D:\Arduino Projetos\InterfaceArduinoPC\appRGBLedPCControl\Unit1.pas=D:\Arduino Projetos\InterfaceArduinoPC\appRGBLedPCControl\unDataModule.pas</Transaction>
+    <Transaction>2017/01/17 20:00:05.278.dfm,D:\Arduino Projetos\InterfaceArduinoPC\appRGBLedPCControl\Unit1.dfm=D:\Arduino Projetos\InterfaceArduinoPC\appRGBLedPCControl\unDataModule.dfm</Transaction>
+    <Transaction>2017/01/18 16:18:32.502.pas,C:\Delphi Programs and Icons\appRGBLedPCControl\unDataModule.pas=</Transaction>
+    <Transaction>2017/01/18 16:18:32.502.dfm,C:\Delphi Programs and Icons\appRGBLedPCControl\unDataModule.dfm=</Transaction>
+  </Transactions>
+</BorlandProject>
